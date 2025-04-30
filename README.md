@@ -1,5 +1,5 @@
 🎯 Futbol Maç Tahmin Sistemi — Çok Ajanlı AI Destekli Analiz
-Bu proje, 27.000+ maçlık büyük bir veri seti kullanarak, futbol maçlarının sonuçlarını tahmin etmek için çok ajanlı (multi-agent) yapay zeka destekli bir sistem geliştirmeyi amaçlamaktadır. Sistem, kullanıcının girdiği iddaa oranları (ev sahibi, beraberlik, deplasman) üzerinden çeşitli analiz ajanlarını çalıştırarak maç sonucu tahminleri üretir.
+Bu proje, 27.000+ maçlık büyük bir veri seti kullanarak, futbol maçlarının sonuçlarını tahmin etmek için çok ajanlı (multi-agent) yapay zeka destekli bir sistem geliştirmeyi amaçlamaktadır. Sistem, kullanıcının girdiği iddaa oranları (ev sahibi, beraberlik, deplasman) üzerinden çeşitli analiz ajanlarını çalıştırarak maç sonucu tahminleri üretir.Ve bununla kalmayıp üretilen tahminden tahmin hakkında sohbette edebilirsiniz.
 
 🚀 Özellikler
 📊 Gerçek maç verileriyle eğitilmiş tahmin altyapısı (27.000 maç)
