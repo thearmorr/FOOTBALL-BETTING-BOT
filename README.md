@@ -52,4 +52,5 @@ SQLite veritabanı
 
 27.000 maçlık özel veri seti
 
-
+ÖNEMLİ 
+Veri setini Excel!e aktarıp daha sonrasında GOOGLE AI STUDİO'dan GOOGLE GEMİNİ API alıp GOOGLE COLAB'A entegre edip modeli çalıştırdıktan sonra veri setini yükledikten sonra oranlarınızı girip gerekirse sohbet şeklinde maç hakkında ek bilgiler de verebilip daha iyi tahminler yaptırabilirsiniz.
